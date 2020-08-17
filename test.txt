@@ -6,3 +6,5 @@ https://github.com/github/gitignore/blob/master/UnrealEngine.gitignore
 https:/git-scm.com/downloads/guis
 学习git :
 https://www.liaoxuefeng.com/wiki/896043488029600
+Git is a distributed version control system.
+Git is free software.
