@@ -8,3 +8,20 @@ https:/git-scm.com/downloads/guis
 https://www.liaoxuefeng.com/wiki/896043488029600
 Git is a distributed version control system.
 Git is free software.
+https://github.com/github/gitignore/blob/master/UnrealEngine.gitignore
+如果你喜欢图形界面，git客户端的选择:
+https:/git-scm.com/downloads/guis
+学习git :
+https://www.liaoxuefeng.com/wiki/896043488029600
+Git is a distributed version control system.
+Git is free software.
+https://www.liaoxuefeng.com/wiki/896043488029600
+Git is a distributed version control system.
+Git is free software.
+https://github.com/github/gitignore/blob/master/UnrealEngine.gitignore
+如果你喜欢图形界面，git客户端的选择:
+https:/git-scm.com/downloads/guis
+学习git :
+https://www.liaoxuefeng.com/wiki/896043488029600
+Git is a distributed version control system.
+Git is free software.
